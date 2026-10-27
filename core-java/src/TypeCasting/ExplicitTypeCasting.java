@@ -6,7 +6,7 @@ public class ExplicitTypeCasting {
 		// TODO Auto-generated method stub
 		
 		double d=980.90;
-		int e= (int)d;
+		byte e= (byte)d;
 		System.out.println(e);
 		System.out.println(((Object)e).getClass().getSimpleName());
 		
