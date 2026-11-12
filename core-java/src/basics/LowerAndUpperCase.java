@@ -12,6 +12,7 @@ public class LowerAndUpperCase {
 		String n=sc.nextLine();
         System.out.println("The Upper case :" + n.toUpperCase());
         System.out.println("The Lower case :" + n.toLowerCase());
+        sc.close();
 
 	}
 
